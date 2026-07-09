@@ -1,3 +1,12 @@
+## Quick Access
+
+| Entry | URL |
+| --- | --- |
+| GPT5.6 Channel | https://pay.kklt.lol/ |
+| Claude4.8 Channel | https://fuckme.443.hk/ |
+| Open Free2AI Free Navigation | https://free2ai.pages.dev/ |
+| Telegram Support | https://t.me/kkscshop |
+
 ﻿# Claude Gemini Free Trial Gateway
 
 mistral-free-api-gateway is a Free2AI-style navigation repository for free AI relay, low-cost AI API access, giveaway-style trial routes, and top model gateway discovery. It is designed for users who want affordable access to GPT, Claude, Gemini, DeepSeek, Llama, Qwen, Grok, Mistral, and other leading AI models.
